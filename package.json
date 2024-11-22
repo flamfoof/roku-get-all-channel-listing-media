@@ -1,0 +1,15 @@
+{
+  "name": "roku-get-all-channel-listing-media",
+  "version": "1.0.0",
+  "description": "A tool to fetch Roku channel listings and media information",
+  "main": "roku_get_ch.js",
+  "type": "module",
+  "scripts": {
+    "start": "node roku_get_ch.js",
+    "start:bun": "bun run roku_get_ch.js",
+    "start:deno": "deno run --allow-net roku_get_ch.js"
+  },
+  "keywords": ["roku", "channels", "media", "listing"],
+  "author": "",
+  "license": "MIT"
+}
