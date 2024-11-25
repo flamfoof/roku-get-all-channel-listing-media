@@ -32,6 +32,12 @@ Traditional [Node.js](https://nodejs.org/) is also supported:
 node roku_get_ch.js
 ```
 
+### Other Functions
+Compare these channels with the staging data
+```bash
+node compare_channels.js
+```
+
 ## 📦 Dependencies
 This project is designed to work with minimal dependencies, leveraging the built-in features of each runtime.
 
